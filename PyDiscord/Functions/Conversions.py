@@ -1,4 +1,4 @@
-# PyDiscrd | Functions > Conversions
+# PyDiscord | Functions > Conversions
 
 
 
